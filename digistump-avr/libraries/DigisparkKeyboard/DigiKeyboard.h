@@ -126,6 +126,19 @@ const PROGMEM char usbHidReportDescriptor[USB_CFG_HID_REPORT_DESCRIPTOR_LENGTH] 
 #define KEY_F11     68
 #define KEY_F12     69
 
+#define KEY_F13     104
+#define KEY_F14     105
+#define KEY_F15     106
+#define KEY_F16     107
+#define KEY_F17     108
+#define KEY_F18     109
+#define KEY_F19     110
+#define KEY_F20     111
+#define KEY_F21     112
+#define KEY_F22     113
+#define KEY_F23     114
+#define KEY_F24     115
+
 #define KEY_ARROW_UP        82
 #define KEY_ARROW_DOWN      81
 #define KEY_ARROW_LEFT      80
